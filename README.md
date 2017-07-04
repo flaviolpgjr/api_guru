@@ -10,9 +10,9 @@ Api em rails, para um chatbot desenvolvido para fins de aprendizagem, chamado [G
 ### Funcionamento
 O bot é capaz de responder como esta o clima na maioria das cidades brasileiras, e mundiais, basta fazer perguntas do tipo para ele:
 
-como está o tempo em "cidade"?
-como está o clima em "cidade"?
-tempo em "cidade".
-clima em "cidade".
+- como está o tempo em "cidade"?
+- como está o clima em "cidade"?
+- tempo em "cidade".
+- clima em "cidade".
 
 Onde "cidade", é o nome da cidade desejada.
